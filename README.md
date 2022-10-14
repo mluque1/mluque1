@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mluque1
-- 👀 I’m interested in Data Science and Backend
+- 👀 I’m interested in Data Science and backend development
 - 🌱 I’m currently learning Javascript, Python and Go
 
 <!---
